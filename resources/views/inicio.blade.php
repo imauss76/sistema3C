@@ -18,7 +18,7 @@
       </div>
         <ul class="nav navbar-nav">
 
-        <li> <a style=" color: white; background: 	black;"> <strong>SOBRE</strong> </a> </li>
+        <li> <a style=" color: white; background: 	black;"> <strong>SOBRE O SISTEMA 3C</strong> </a> </li>
 
 
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Cadastros <span class="caret"></span></a>
